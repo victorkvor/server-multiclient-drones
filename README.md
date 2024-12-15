@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/vectorete/server-multiclient-drones">
+  <a href="https://github.com/victorkvor/server-multiclient-drones">
     <img src="images/logo.png" alt="Logo" width="30%">
   </a>
 
@@ -21,14 +21,14 @@
   <p align="center">
     Client-server architecture drone monitoring system to manage and simulate configurable drone operations.
     <br />
-    <a href="https://github.com/vectorete/server-multiclient-drones"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/victorkvor/server-multiclient-drones"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/vectorete/server-multiclient-drones">View Demo</a>
+    <a href="https://github.com/victorkvor/server-multiclient-drones">View Demo</a>
     ·
-    <a href="https://github.com/vectorete/server-multiclient-drones/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/victorkvor/server-multiclient-drones/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/vectorete/server-multiclient-drones/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/victorkvor/server-multiclient-drones/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -80,7 +80,7 @@
 ## 🔎 About The Project <a id="about-the-project"></a>
 
 <div align="center">
-  <a href="https://github.com/vectorete/server-multiclient-drones">
+  <a href="https://github.com/victorkvor/server-multiclient-drones">
     <img src="images/projectimg.png" alt="Project" width="50%">
   </a>
 </div>
@@ -176,7 +176,7 @@ To get a local copy up and running follow these simple steps.
 
 1. **Clone the repository**:
     ```java
-    git clone https://github.com/vectorete/server-multiclient-drones.git
+    git clone https://github.com/victorkvor/server-multiclient-drones.git
     ```
 
 2. **Open the project in NetBeans**:
@@ -259,22 +259,22 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Victor Kravchuk Vorkevych - victorkravchuk19@gmail.com
 
-Project Link: [https://github.com/vectorete/server-multiclient-drones](https://github.com/vectorete/server-multiclient-drones)
+Project Link: [https://github.com/victorkvor/server-multiclient-drones](https://github.com/victorkvor/server-multiclient-drones)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/vectorete/server-multiclient-drones.svg?style=for-the-badge
-[contributors-url]: https://github.com/vectorete/server-multiclient-drones/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/vectorete/server-multiclient-drones.svg?style=for-the-badge
-[forks-url]: https://github.com/vectorete/server-multiclient-drones/network/members
-[stars-shield]: https://img.shields.io/github/stars/vectorete/server-multiclient-drones.svg?style=for-the-badge
-[stars-url]: https://github.com/vectorete/server-multiclient-drones/stargazers
-[issues-shield]: https://img.shields.io/github/issues/vectorete/server-multiclient-drones.svg?style=for-the-badge
-[issues-url]: https://github.com/vectorete/server-multiclient-drones/issues
-[license-shield]: https://img.shields.io/github/license/vectorete/server-multiclient-drones.svg?style=for-the-badge
-[license-url]: https://github.com/vectorete/server-multiclient-drones/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/victorkvor/server-multiclient-drones.svg?style=for-the-badge
+[contributors-url]: https://github.com/victorkvor/server-multiclient-drones/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/victorkvor/server-multiclient-drones.svg?style=for-the-badge
+[forks-url]: https://github.com/victorkvor/server-multiclient-drones/network/members
+[stars-shield]: https://img.shields.io/github/stars/victorkvor/server-multiclient-drones.svg?style=for-the-badge
+[stars-url]: https://github.com/victorkvor/server-multiclient-drones/stargazers
+[issues-shield]: https://img.shields.io/github/issues/victorkvor/server-multiclient-drones.svg?style=for-the-badge
+[issues-url]: https://github.com/victorkvor/server-multiclient-drones/issues
+[license-shield]: https://img.shields.io/github/license/victorkvor/server-multiclient-drones.svg?style=for-the-badge
+[license-url]: https://github.com/victorkvor/server-multiclient-drones/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/victorkvor
 [product-project]: images/projectimg.png
